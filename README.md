@@ -32,7 +32,7 @@ Each test includes:
 
 ## Tools Used:
 - **Platform**: BrowserStack (Web)
-- **Browsers**: Chrome, Firefox, Safari, Edge
+- **Browsers**: Chrome
 
 ## How to Run the Tests:
 1. **Clone** this repo to your computer.
